@@ -1,5 +1,3 @@
-![Screenshot 2025-05-10 205149](https://github.com/user-attachments/assets/27620ed7-1030-4593-ac7f-0a8d61f2953e)# 🏥 Hospital Management System
-
 ---
 
 ## 📌 About the Project
@@ -42,8 +40,8 @@ The **Hospital Management System** is a web-based application developed using **
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](![Screenshot 2025-05-10 205149](https://github.com/user-attachments/assets/59b31769-26da-4f35-9b50-2ac244192f48)
-)
+(![Screenshot 2025-05-10 205149](https://github.com/user-attachments/assets/59b31769-26da-4f35-9b50-2ac244192f48)
+
 
 ### 🔐 Login Page
 ![Login Page](![Screenshot 2025-05-10 205605](https://github.com/user-attachments/assets/3b61d116-4fb9-47d9-b3b7-ecee13500f49)
