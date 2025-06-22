@@ -21,7 +21,7 @@ The **Hospital Management System** is a web-based application developed using **
 - 🖥️ **Frontend:** HTML5, CSS3, JavaScript  
 - 🔧 **Backend:** PHP  
 - 🗄️ **Database:** MySQL  
-- 🧪 **Server Environment:** XAMPP / WAMP / LAMP
+- 🧪 **Server Environment:** XAMPP
 
 ---
 
